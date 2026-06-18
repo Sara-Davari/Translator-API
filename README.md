@@ -1,2 +1,2 @@
 # Translator-API
-This is an API project which combines STT, TTS and Speech Recognition to translate several sentences from any language to one chosen by the user for each sentence specifically, store it in its history and say the translated sentences.
+This API project combines STT, TTS and Speech Recognition to translate several sentences from any language to one chosen by the user for each sentence specifically, store it in its history and say the translated sentences. STT translation projects pose a unique challenge as many languages like Chinese and Japanese are difficult for the computer to understand, leading to translation mistakes.
