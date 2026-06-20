@@ -1,5 +1,5 @@
 # Translator-API
-This API project combines STT and Speech Recognition to translate several sentences from any language to one chosen by the user for each sentence specifically and store it in its history. STT translation projects pose a difficult challenge as many languages like Chinese and Japanese are difficult for the program to understand, leading to translation mistakes.
+This API project combines STT and Speech Recognition to translate several sentences from any language to one chosen by the user for each sentence specifically. STT translation projects pose a difficult challenge as many languages like Chinese and Japanese are difficult for the program to understand, leading to translation mistakes.
 Input: Sentence spoken and translation language chosen by the user.
 
 Output: Sentence translated and the language shown
@@ -10,8 +10,9 @@ How it works:
 3. Recording their sentence
 4. Translating the sentence and displaying it along with the language it's translated to
 5. The action is repeated 5 times using a loop asking the user whether they want to translate another sentence every time
+6. Should the user type "no" anytime, the loop will stop
 
-Results: The program translates sentences to common languages without mistakes, though difficult languages like Chinese or native languages take longer to translate and the translation is less accurate.
+Results: The program translates sentences to common languages without mistakes, though difficult languages like Chinese or native dialects of languages take longer to translate and the translation is less accurate.
 
 What I learned:
 1. How to use API and its relevant libraries
