@@ -7,11 +7,12 @@ Output: Sentence translated and the language shown
 How it works:
 1. Importing speech_recognition and deep_translator
 2. Asking the user for the language they want their sentence translated to
-3. Asking the user for how long they want to speek
-4. Recording their sentence
-5. Translating the sentence and displaying it along with the language it's translated to
-6. The action is repeated 5 times using a loop asking the user whether they want to translate another sentence every time
-7. Should the user type "no" anytime, the loop will stop
+3. Asking the user for how long they want to spea
+4. k
+5. Recording their sentence
+6. Translating the sentence and displaying it along with the language it's translated to
+7. The action is repeated 5 times using a loop asking the user whether they want to translate another sentence every time
+8. Should the user type "no" anytime, the loop will stop
 
 Results: The program translates sentences to common languages without mistakes, though difficult languages like Chinese or native dialects of languages take longer to translate and the translation is less accurate.
 
